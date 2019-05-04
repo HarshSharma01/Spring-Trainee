@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TraineeManagementSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Harsh
+Implementation-Vendor-Id: com.learn
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TraineeManagementSystem
+Created-By: Maven Integration for Eclipse
+
